@@ -1,12 +1,12 @@
-# 👋 Fala aí, eu sou o Luiz!
+#  Fala aí, eu sou o Luiz!
 
-🎯 Em transição para a área de QA (Quality Assurance)
-💻 Focado em testes manuais, validação de dados e regras de negócio
-🎵 Professor de música e apaixonado por ensino dinâmico
+ Em transição para a área de QA (Quality Assurance)
+ Focado em testes manuais, validação de dados e regras de negócio
+ Professor de música e apaixonado por ensino dinâmico
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Atualmente estou desenvolvendo projetos práticos de QA com foco em:
 
@@ -19,7 +19,7 @@ Buscando minha primeira oportunidade como QA Júnior 🚀
 
 ---
 
-## 🧪 Projetos em destaque
+##  Projetos em destaque
 
 🔹 [Testes de Desconto](https://github.com/lhmarquesoficial/qa-discount-tests)
 Projeto focado em validação de regras de desconto (não cumulativo e maior valor aplicado)
@@ -32,7 +32,7 @@ Projeto focado em validação de regras de desconto (não cumulativo e maior val
 
 ---
 
-## 🛠️ Ferramentas e tecnologias
+##  Ferramentas e tecnologias
 
 * SQL
 * Postman
@@ -41,7 +41,7 @@ Projeto focado em validação de regras de desconto (não cumulativo e maior val
 
 ---
 
-## 📫 Contato
+##  Contato
 
 📧 [lhmarquesoficial@gmail.com](mailto:lhmarquesoficial@gmail.com)
 📱 +55 27 99962-2863
@@ -49,7 +49,7 @@ Projeto focado em validação de regras de desconto (não cumulativo e maior val
 
 ---
 
-## 📈 Em evolução constante
+##  Em evolução constante
 
 Atualmente focado em:
 
